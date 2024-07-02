@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Bloom Money - Appcast</title>
+        <item>
+            <title>Android Release v1.1.2</title>
+            <enclosure url="https://play.google.com/store/apps/details?id=co.bloommoney.bloom_app" sparkle:version="1.1.2" sparkle:os="android" />
+        </item>
+        <item>
+            <title>iOS Release v1.1.2</title>
+            <enclosure url="https://apps.apple.com/gb/app/bloom-money/id6443395719" sparkle:version="1.1.2" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
